@@ -1,4 +1,9 @@
 <h1 align="center">Saransh Khandelwal</h1>
+<p align="center">
+<a href="https://github.com/SaranshKhandelwal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Saransh Khandelwal" height="20" width="20" /></a>
+<a href="https://twitter.com/Saransh44846376" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Saransh Khandelwal" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/saransh-khandelwal-b37227159/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saransh Khandelwal" height="20" width="20" /></a>
+</p>
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
