@@ -10,7 +10,7 @@
 I'm <a href="https://www.linkedin.com/in/saransh-khandelwal-b37227159//">Saransh</a> currently a Final Year ECE student at <a href="https://www.nitj.ac.in/">@NIT Jalandhar</a>. I'm a Full Stack Developer who is passionate about making open-source projects.
 Software engineering is a never-ending puzzle that I am passionately engaged in solving.
 </samp>
-<br>
+<br />
 
 - 🔭 Currently working on **Job portal project**
 - 🌱 I’m currently learning **Java**
