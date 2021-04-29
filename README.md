@@ -43,8 +43,12 @@ Software engineering is a never-ending puzzle that I am passionately engaged in 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee username"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee username" /></a></p><br><br>
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->           
+🌸  Completed 2 tasks today           
+✅  Completed 56 tasks so far           
+⏳  Longest streak is 2 days
+<!-- TODO-IST:END -->
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saranshkhandelwal&show_icons=true&locale=en" alt="saranshkhandelwal" /></p>
