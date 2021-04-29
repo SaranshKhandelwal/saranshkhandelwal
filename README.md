@@ -7,6 +7,15 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I'm <a href="https://www.linkedin.com/in/saransh-khandelwal-b37227159//">Saransh</a> currently a Final Year ECE student at <a href="https://www.nitj.ac.in/">@NIT Jalandhar</a>. I'm a Full Stack Developer who is passionate about making open-source projects.
+Software engineering is a never-ending puzzle that I am passionately engaged in solving.
+
+
+
+
+
+
+
 - 🔭 I’m currently working on **job creation portal**
 
 - 🌱 I’m currently learning **Java**
