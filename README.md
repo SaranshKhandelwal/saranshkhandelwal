@@ -50,6 +50,8 @@ Software engineering is a never-ending puzzle that I am passionately engaged in 
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
+![](https://visitor-badge.glitch.me/badge?page_id=SaranshKhandelwal.saranshkhandelwal)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saranshkhandelwal&show_icons=true&locale=en" alt="saranshkhandelwal" /></p>
 
