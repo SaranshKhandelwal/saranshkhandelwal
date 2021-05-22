@@ -44,8 +44,8 @@ Software engineering is a never-ending puzzle that I am passionately engaged in 
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->           
-🌸  Completed 3 tasks today           
-✅  Completed 72 tasks so far           
+🌸  Completed 1 tasks today           
+✅  Completed 98 tasks so far           
 ⏳  Longest streak is 8 days
 <!-- TODO-IST:END -->
 
